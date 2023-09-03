@@ -1,0 +1,57 @@
+.Accord{
+    width: auto;
+    height: auto;
+    margin-top: 5px;
+}
+
+.accord-img{
+    width: 50px;
+    height: auto;
+}
+
+.content-top{
+    display: flex;
+    flex-direction: column;
+}
+.content-bottom{
+   display: flex;
+   align-items: flex-end;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+}
+
+.header{
+    line-height: 1;
+    font-weight: 600;
+      
+}
+.header-1{
+    line-height: 2;
+}
+
+.Temp{
+    margin-left: 0px;
+    margin-right: 10px;
+}
+
+
+/* .row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+.label {
+    text-align: left;
+    font-weight: 400;
+    font-size: 18px;
+}
+  
+.value {
+    text-align: right;
+    font-weight: 200;
+    font-size: 18px;
+  }
+   */ 
