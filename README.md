@@ -10,3 +10,9 @@ These are the react projects i have done so far
        Latitude and Longitude and another one is mutable.And the Api is takes only 5 request per sec.
        
        # url : https://weather-8938.web.app
+    # Todo
+        This application is done by using react and redux . This app have function like add , delete ,update and create 
+        And i used the packages likes redux/toolkit , react-hot-toast ,reactstrap etc.....
+        You can see the live demo on the server using below link
+
+        # url : https://mytodo-8938.web.app 
