@@ -1,0 +1,79 @@
+.container{
+  width: 600px;
+  padding: 20px;   
+  background-color: white;
+  border-radius: 10px;
+  box-shadow:  rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;;
+}
+
+.button_tab{
+    border-bottom: 2px solid rgba(229,229,229);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.button_tab .tab_btn{
+    font-size: 18px;
+    font-weight: 600;
+    color: #919191;
+    border: none;
+    background: none;
+    padding: 18px;
+}
+
+.active{
+    font-size: 18px;
+    font-weight: 600;
+    color: #919191;
+    border: none;
+    background: none;
+    padding: 18px;
+    color: #7360ff;
+}
+
+.Task_Content{
+    padding: 20px;
+}
+
+.hide_content{
+    display: none;
+}
+
+.show_content{
+    display:contents;
+}
+
+
+
+.Task_Content .content h2{
+    margin-bottom: 20px;
+}
+
+.con-Header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.con-Header p{    
+    color: #919191;
+}
+
+.List{
+  border : 1px solid #919191;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.list_btn{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.butn{
+    margin-left: 10px;
+}
